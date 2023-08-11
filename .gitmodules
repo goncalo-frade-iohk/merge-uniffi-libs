@@ -1,0 +1,6 @@
+[submodule "anoncreds"]
+	path = anoncreds
+	url = git@github.com:input-output-hk/anoncreds-rs.git
+[submodule "didcomm"]
+	path = didcomm
+	url = git@github.com:sicpa-dlab/didcomm-rust.git

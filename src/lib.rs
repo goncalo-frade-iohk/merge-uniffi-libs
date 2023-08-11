@@ -1,0 +1,1 @@
+use anoncreds_uniffi::CredentialDefinitionId;

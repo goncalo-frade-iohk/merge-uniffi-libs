@@ -1,0 +1,12 @@
+[package]
+name = "merge-uniffi-libs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = [
+  'staticlib'
+]
+
+[dependencies]
+anoncreds_uniffi = { package = "anoncreds-uniffi", path = 'anoncreds/uniffi' }
